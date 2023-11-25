@@ -1,0 +1,14 @@
+/Users/patuit/projects/Lesson2/bin/Debug/net7.0/Lesson2
+/Users/patuit/projects/Lesson2/bin/Debug/net7.0/Lesson2.deps.json
+/Users/patuit/projects/Lesson2/bin/Debug/net7.0/Lesson2.runtimeconfig.json
+/Users/patuit/projects/Lesson2/bin/Debug/net7.0/Lesson2.dll
+/Users/patuit/projects/Lesson2/bin/Debug/net7.0/Lesson2.pdb
+/Users/patuit/projects/Lesson2/obj/Debug/net7.0/Lesson2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patuit/projects/Lesson2/obj/Debug/net7.0/Lesson2.AssemblyInfoInputs.cache
+/Users/patuit/projects/Lesson2/obj/Debug/net7.0/Lesson2.AssemblyInfo.cs
+/Users/patuit/projects/Lesson2/obj/Debug/net7.0/Lesson2.csproj.CoreCompileInputs.cache
+/Users/patuit/projects/Lesson2/obj/Debug/net7.0/Lesson2.dll
+/Users/patuit/projects/Lesson2/obj/Debug/net7.0/refint/Lesson2.dll
+/Users/patuit/projects/Lesson2/obj/Debug/net7.0/Lesson2.pdb
+/Users/patuit/projects/Lesson2/obj/Debug/net7.0/Lesson2.genruntimeconfig.cache
+/Users/patuit/projects/Lesson2/obj/Debug/net7.0/ref/Lesson2.dll
