@@ -1,0 +1,14 @@
+/Users/patuit/projects/MIPT_Courses/Home_task_3/obj/Debug/net7.0/Home_task_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patuit/projects/MIPT_Courses/Home_task_3/obj/Debug/net7.0/Home_task_3.AssemblyInfoInputs.cache
+/Users/patuit/projects/MIPT_Courses/Home_task_3/obj/Debug/net7.0/Home_task_3.AssemblyInfo.cs
+/Users/patuit/projects/MIPT_Courses/Home_task_3/obj/Debug/net7.0/Home_task_3.csproj.CoreCompileInputs.cache
+/Users/patuit/projects/MIPT_Courses/Home_task_3/bin/Debug/net7.0/Home_task_3
+/Users/patuit/projects/MIPT_Courses/Home_task_3/bin/Debug/net7.0/Home_task_3.deps.json
+/Users/patuit/projects/MIPT_Courses/Home_task_3/bin/Debug/net7.0/Home_task_3.runtimeconfig.json
+/Users/patuit/projects/MIPT_Courses/Home_task_3/bin/Debug/net7.0/Home_task_3.dll
+/Users/patuit/projects/MIPT_Courses/Home_task_3/bin/Debug/net7.0/Home_task_3.pdb
+/Users/patuit/projects/MIPT_Courses/Home_task_3/obj/Debug/net7.0/Home_task_3.dll
+/Users/patuit/projects/MIPT_Courses/Home_task_3/obj/Debug/net7.0/refint/Home_task_3.dll
+/Users/patuit/projects/MIPT_Courses/Home_task_3/obj/Debug/net7.0/Home_task_3.pdb
+/Users/patuit/projects/MIPT_Courses/Home_task_3/obj/Debug/net7.0/Home_task_3.genruntimeconfig.cache
+/Users/patuit/projects/MIPT_Courses/Home_task_3/obj/Debug/net7.0/ref/Home_task_3.dll

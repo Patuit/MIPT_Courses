@@ -12,3 +12,17 @@
 /Users/patuit/projects/Lesson2/Task-3/obj/Debug/net7.0/Task-3.pdb
 /Users/patuit/projects/Lesson2/Task-3/obj/Debug/net7.0/Task-3.genruntimeconfig.cache
 /Users/patuit/projects/Lesson2/Task-3/obj/Debug/net7.0/ref/Task-3.dll
+/Users/patuit/projects/MIPT_Courses/Home_task_1/Task-3/bin/Debug/net7.0/Task-3
+/Users/patuit/projects/MIPT_Courses/Home_task_1/Task-3/bin/Debug/net7.0/Task-3.deps.json
+/Users/patuit/projects/MIPT_Courses/Home_task_1/Task-3/bin/Debug/net7.0/Task-3.runtimeconfig.json
+/Users/patuit/projects/MIPT_Courses/Home_task_1/Task-3/bin/Debug/net7.0/Task-3.dll
+/Users/patuit/projects/MIPT_Courses/Home_task_1/Task-3/bin/Debug/net7.0/Task-3.pdb
+/Users/patuit/projects/MIPT_Courses/Home_task_1/Task-3/obj/Debug/net7.0/Task-3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patuit/projects/MIPT_Courses/Home_task_1/Task-3/obj/Debug/net7.0/Task-3.AssemblyInfoInputs.cache
+/Users/patuit/projects/MIPT_Courses/Home_task_1/Task-3/obj/Debug/net7.0/Task-3.AssemblyInfo.cs
+/Users/patuit/projects/MIPT_Courses/Home_task_1/Task-3/obj/Debug/net7.0/Task-3.csproj.CoreCompileInputs.cache
+/Users/patuit/projects/MIPT_Courses/Home_task_1/Task-3/obj/Debug/net7.0/Task-3.dll
+/Users/patuit/projects/MIPT_Courses/Home_task_1/Task-3/obj/Debug/net7.0/refint/Task-3.dll
+/Users/patuit/projects/MIPT_Courses/Home_task_1/Task-3/obj/Debug/net7.0/Task-3.pdb
+/Users/patuit/projects/MIPT_Courses/Home_task_1/Task-3/obj/Debug/net7.0/Task-3.genruntimeconfig.cache
+/Users/patuit/projects/MIPT_Courses/Home_task_1/Task-3/obj/Debug/net7.0/ref/Task-3.dll
