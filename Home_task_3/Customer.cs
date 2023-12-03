@@ -4,11 +4,10 @@ class Customer
 {
     public string Fio { get; }
 
-    Car car;
+    Car? car;
 
-    public Customer(string fio, Car someCar)
+    public Customer(string fio)
     {
-        this.car = someCar;
         this.Fio = fio;
     }
 }
