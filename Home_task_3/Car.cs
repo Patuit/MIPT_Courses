@@ -1,10 +1,19 @@
 namespace Home_task_3;
 
+/// <summary>
+/// Автомобиль
+/// </summary>
 class Car
 {
+    /// <summary>
+    /// Серийный номер автомобиля
+    /// </summary>
     public int SerialNumber { get; }
 
-    Engine engine;
+    /// <summary>
+    /// Покупатель
+    /// </summary>
+    public Engine engine { get; }
 
     public Car(int serialNumber)
     {
