@@ -1,0 +1,14 @@
+/Users/patuit/projects/MIPT_Courses/Home_task_4/bin/Debug/net7.0/Home_task_4
+/Users/patuit/projects/MIPT_Courses/Home_task_4/bin/Debug/net7.0/Home_task_4.deps.json
+/Users/patuit/projects/MIPT_Courses/Home_task_4/bin/Debug/net7.0/Home_task_4.runtimeconfig.json
+/Users/patuit/projects/MIPT_Courses/Home_task_4/bin/Debug/net7.0/Home_task_4.dll
+/Users/patuit/projects/MIPT_Courses/Home_task_4/bin/Debug/net7.0/Home_task_4.pdb
+/Users/patuit/projects/MIPT_Courses/Home_task_4/obj/Debug/net7.0/Home_task_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patuit/projects/MIPT_Courses/Home_task_4/obj/Debug/net7.0/Home_task_4.AssemblyInfoInputs.cache
+/Users/patuit/projects/MIPT_Courses/Home_task_4/obj/Debug/net7.0/Home_task_4.AssemblyInfo.cs
+/Users/patuit/projects/MIPT_Courses/Home_task_4/obj/Debug/net7.0/Home_task_4.csproj.CoreCompileInputs.cache
+/Users/patuit/projects/MIPT_Courses/Home_task_4/obj/Debug/net7.0/Home_task_4.dll
+/Users/patuit/projects/MIPT_Courses/Home_task_4/obj/Debug/net7.0/refint/Home_task_4.dll
+/Users/patuit/projects/MIPT_Courses/Home_task_4/obj/Debug/net7.0/Home_task_4.pdb
+/Users/patuit/projects/MIPT_Courses/Home_task_4/obj/Debug/net7.0/Home_task_4.genruntimeconfig.cache
+/Users/patuit/projects/MIPT_Courses/Home_task_4/obj/Debug/net7.0/ref/Home_task_4.dll
