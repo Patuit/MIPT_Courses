@@ -2,7 +2,7 @@
 
 abstract public class Predator : Animal
 {
-    protected Predator(int serialNumber, int health) : base(serialNumber, health)
+    protected Predator(int health) : base(health)
     {
     }
 

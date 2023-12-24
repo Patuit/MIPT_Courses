@@ -2,7 +2,7 @@
 
 public class Table : Thing
 {
-    public Table(int serialNumber) : base(serialNumber)
+    public Table(string Name) : base(Name)
     {
     }
 }

@@ -2,9 +2,9 @@
 
 abstract public class Herbo : Animal
 {
-    protected Herbo(int serialNumber, int health) : base(serialNumber, health)
+    protected Herbo(int health) : base(health)
     {
     }
 
-    public int LvlKind { get; set; }
+    public int LvlKind { get; init; }
 }

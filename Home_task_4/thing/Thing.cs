@@ -2,8 +2,15 @@
 
 abstract public class Thing : IInventory
 {
-    public Thing(int serialNumber) {
-        Number = serialNumber;
+    public string Name { get; set; }
+
+    /// <summary>
+    /// Инвентаризационный номер - пока что без проверки уникальности((
+    /// </summary>
+    public int Number { get; set; }
+
+    public Thing(string name) {
+        Name = name;
     }
-    public int Number { get; init; }
+
 }

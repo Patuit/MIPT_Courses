@@ -3,28 +3,64 @@
 
 abstract public class Animal : IInventory, IAlive
 {
-    public Animal(int serialNumber, int health)
+    private int _health;
+    /// <summary>
+    /// Здоровье от 0 до 100
+    /// </summary>
+    public int Health
     {
-        Number = serialNumber;
-        Health = health;
+        get
+        {
+            return _health;
+        }
+        set
+        {
+            if (value < 0)
+            {
+                _health = 0;
+            }
+            else if (value > 100)
+            {
+                _health = 100;
+            }
+            else
+            {
+                _health = value;
+            }
+        }
     }
-
-    public int Health { get; set; }
-    public int Number { get; init; }
+    public int Number { get; set; }
 
     public event EventHandler? NotifyEat;
 
-    public void StartSarving()
+    public Animal(int health)
+    {
+        Health = health;
+    }
+
+    public void CryToHelp()
     {
         NotifyEat?.Invoke(this, new AnimalEventArgs("Жизненные силы покидают меня!"));
     }
 
-    public void ToDamage() {
+    /// <summary>
+    /// Метод Подпитаться - увеличивает здоровье животного на случайное число
+    /// </summary>
+    public void Eat()
+    {
         Random rnd = new Random();
-        int damageNumber = rnd.Next(10, 100);
-        Health -= damageNumber;
-        Console.WriteLine("Во время ToDamage " + Health);
-        NotifyEat?.Invoke(this, new AnimalEventArgs("Алло? Ай нид хелп!"));
+        Health += rnd.Next(10, 100);
+    }
+
+    public void ToDamage()
+    {
+        Random rnd = new Random();
+        Health -= rnd.Next(10, 100);
+
+        if (Health == 0)
+        {
+            CryToHelp();
+        }
     }
 
 }

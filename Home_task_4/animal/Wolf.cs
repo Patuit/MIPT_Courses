@@ -2,7 +2,7 @@
 
 public class Wolf : Predator
 {
-    public Wolf(int serialNumber, int health) : base(serialNumber, health)
+    public Wolf(int health) : base(health)
     {
     }
 }

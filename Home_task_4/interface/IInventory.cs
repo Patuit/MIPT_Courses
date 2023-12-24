@@ -2,5 +2,5 @@
 
 public interface IInventory
 {
-    int Number { get; init; }
+    int Number { get; set; }
 }

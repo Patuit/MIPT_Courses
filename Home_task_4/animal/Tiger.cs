@@ -2,7 +2,7 @@
 
 public class Tiger : Predator
 {
-    public Tiger(int serialNumber, int health) : base(serialNumber, health)
+    public Tiger(int health) : base(health)
     {
     }
 }

@@ -2,7 +2,7 @@
 
 public class Rabbit : Herbo
 {
-    public Rabbit(int serialNumber, int health) : base(serialNumber, health)
+    public Rabbit(int health) : base(health)
     {
     }
 }

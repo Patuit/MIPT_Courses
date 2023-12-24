@@ -4,22 +4,35 @@ class Program
 {
     static void Main(string[] args)
     {
-        Monkey monkey = new Monkey(344, 0);
-        Rabbit rabbit = new Rabbit(324, 0);
+        // Вначале были животные
+        Monkey monkey = new Monkey(0) { LvlKind = 10 };
+        Rabbit rabbit = new Rabbit(23) { LvlKind = 100 };
+        Wolf wolf = new Wolf(72) { WhatIsEating = "Зайцы, мелкие грызуны" };
+        Tiger tiger = new Tiger(56) { WhatIsEating = "Туристы, крупные грызуны, козлы" };
 
+        // Потом человек придумал зоопарк Nazareth
         Zoo zoo = new Zoo();
 
-        Console.WriteLine("monkey Before " + monkey.Health);
-        Console.WriteLine("rabbit Before " + rabbit.Health);
+        // И наполнил он свой зоопарк разными техническими штуками
+        Table table = new Table("Хайтек стол");
+        Computer computer = new Computer("IMac ver.2019");
+        zoo.Add(table);
+        zoo.Add(computer);
+
+        // И начал человек этих животных ловить и пленить в своём зоопарке
+        // Но от обезьяны лишь труп доехал до берегов большой Земли
         zoo.Add(monkey);
         zoo.Add(rabbit);
-        Console.WriteLine("monkey After Add " + monkey.Health);
-        Console.WriteLine("rabbit After Add " + rabbit.Health);
-        monkey.ToDamage();
-        rabbit.ToDamage();
-        Console.WriteLine("monkey After Damage " + monkey.Health);
-        Console.WriteLine("rabbit After Damage " + rabbit.Health);
+        zoo.Add(wolf);
+        zoo.Add(tiger);
+
+        // Но понял человек, что Волк - это свободное животное и может оно жить только на свободе
+        // И выпустил человек Волка из зоопарка и стал Волк свободен
+        zoo.Remove(wolf);
+
+        // Но кара настигла того, кто хотел приручить Волка
+        zoo.BadRain();
+
     }
 
-    public static void DisplayMessage(object? sender, EventArgs message) => Console.WriteLine(message);
 }

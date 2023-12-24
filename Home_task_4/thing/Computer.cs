@@ -2,7 +2,7 @@
 
 public class Computer : Thing
 {
-    public Computer(int serialNumber) : base(serialNumber)
+    public Computer(string Name) : base(Name)
     {
     }
 }
